@@ -110,7 +110,7 @@ Includes:
 - monthly transaction trend
 
 <p align="center">
-  <img src="assets/overview.png" alt="Overview Dashboard" width="100%">
+  <img src="assets/overview.png.png" alt="Overview Dashboard" width="100%">
 </p>
 
 ---
@@ -128,7 +128,7 @@ Includes:
 - customer details table
 
 <p align="center">
-  <img src="assets/customer-analysis.png" alt="Customer Analysis Dashboard" width="100%">
+  <img src="assets/customer-analysis.png.png" alt="Customer Analysis Dashboard" width="100%">
 </p>
 
 ---
@@ -146,7 +146,7 @@ Includes:
 - top transactions table
 
 <p align="center">
-  <img src="assets/transaction-analysis.png" alt="Transaction Analysis Dashboard" width="100%">
+  <img src="assets/transaction-analysis.png.png" alt="Transaction Analysis Dashboard" width="100%">
 </p>
 
 ---
@@ -166,7 +166,7 @@ Includes:
 - risk transaction details table
 
 <p align="center">
-  <img src="assets/risk-monitoring.png" alt="Risk Monitoring Dashboard" width="100%">
+  <img src="assets/risk-monitoring.png.png" alt="Risk Monitoring Dashboard" width="100%">
 </p>
 
 ---
